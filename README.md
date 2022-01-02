@@ -18,4 +18,4 @@ v20210526
 During my investigations I found out, that the S-MIX of the SNES and the AMP-NUS of the N64 are functional identical.
 I even swapped the chips between consoles and everything worked like a charm.
 
-![Comparison](Vergleich SMIX-AMP-NUS.png)
+![Comparison](./Vergleich_SMIX-AMP-NUS.png)
